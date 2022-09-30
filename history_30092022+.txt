@@ -1,0 +1,93 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -lt
+    4  git clone https://github.com/RobertsNiedols/RTR-105
+    5  ls
+    6  cd
+    7  cd /RTR-105
+    8  cd /RTR-105 pwd
+    9  cd RTR-105/
+   10  pwd
+   11  ls -lt
+   12  nano first.c
+   13  ls -lt
+   14  first.c
+   15  gcc first.c 
+   16  ls -lt
+   17  cat. a.out
+   18  echo $PATH
+   19  /home/user/RTR-105/a.out
+   20  ./a.out
+   21  cat first.c
+   22  gcc first.c -o fisrt.out
+   23  ls -lt
+   24  ./first out
+   25  ./first.out
+   26  ./fisrt.out
+   27  nano first.
+   28  nano first.c
+   29  gcc fist.c -o first.out
+   30  gcc first.c -o first.out
+   31  gcc first.c - fisrt.out
+   32  ls -lt
+   33  ./first .out
+   34  ./first.out
+   35  ls -lt
+   36  ls -lt ../
+   37  ls -lta
+   38  pwd
+   39  nano .gitignore
+   40  cd class\ 2022/
+   41  nano first .c
+   42  nano first.c
+   43  gcc -save-temps first.c -o first.out
+   44  ls -lt
+   45  cat first.c
+   46  cat first.i
+   47  ls -lt
+   48  cat first.s
+   49  cat first.o
+   50  ls -lt
+   51  echo $?
+   52  a.out
+   53  echo $?
+   54  nano first .c
+   55  nano first.c
+   56  gcc -save-temps first.c -o first.out
+   57  nano first.c
+   58  gcc -save-temps first.c -o first.out
+   59  ls -lt
+   60  ./first.out
+   61  nano first.c
+   62  ./first.out
+   63  echo $?
+   64  nano first.c
+   65  ./first.out
+   66  echo $?
+   67  nano first.c
+   68  ./first.out
+   69  echo $?
+   70  ls -lt
+   71  cd ..
+   72  pwd
+   73  ls -lt
+   74  nano gitignore
+   75  nano .gitignore
+   76  cat .gitignore
+   77  ./git-upload class 2022
+   78  ls -lt
+   79  ./git-upload class_2022/
+   80  history > history_30092022.txt
+   81  ls -lt
+   82  nano git-upload
+   83  cat .git-upload
+   84  nano git-upload
+   85  cat git-upload 
+   86  ./git-upload 06
+   87  ls -lt
+   88  chmod 744 git-upload 
+   89  ls -lt
+   90  ./git-upload 06
+   91  nano git-upload
+   92  ./git-upload 06
+   93  history > history_30092022+.txt 
