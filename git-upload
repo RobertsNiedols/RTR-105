@@ -1,0 +1,8 @@
+#!/bin/bash
+git add . #tiek pieteiktas adreses "uzmanīšanai"
+git config --global user.name RobertsNiedols
+git config --global user.email r.niedols@gmail.com
+#git commit -m "Class 05"
+git commit -m "Class_$1"
+git push origin main
+
